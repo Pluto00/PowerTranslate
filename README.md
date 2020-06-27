@@ -8,3 +8,4 @@
 
 然后编译运行即可
 
+[前端代码](https://github.com/Pluto00/PowerTranslate-FrontEnd/tree/master/vue-first)
